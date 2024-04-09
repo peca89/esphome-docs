@@ -18,6 +18,7 @@ The ``midea`` component creates a Midea air conditioner climate device.
         - `Comfee <http://www.comfee-russia.ru/>`_
         - `Inventor <https://www.inventorairconditioner.com/>`_
         - `Senville <https://senville.com/>`_
+        - `Vivax <https://vivax.com/>`
         - and maybe others
 
     Control is possible with a custom dongle. Example of hardware implementation is `IoT Uni Dongle <https://github.com/dudanov/iot-uni-dongle>`_ or `Midea SLWF-01pro <https://smartlight.me/smart-home-devices/wifi-devices/wifi-dongle-air-conditioners-midea-idea-electrolux-for-home-assistant>`_ (`CloudFree <https://cloudfree.shop/product/ductless-hvac-wi-fi-module/>`_, `Tindie <https://www.tindie.com/products/smartlightme/wifi-dongle-for-air-conditioners-midea-electrolux>`_).
